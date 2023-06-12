@@ -1,0 +1,7 @@
+Visual StudioでC#を使ってAndroidアプリを開発する場合
+
+従来はXamarinというプラットフォームが使われていたらしいが、サポートが2024年5月で終わる
+Xamarinの後継がNET MAUIというのらしい
+
+NET MAUIをVS2022に導入する記事を見つけた
+いまVS2015なので一度アンスト
